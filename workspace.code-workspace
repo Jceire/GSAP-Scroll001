@@ -1,0 +1,22 @@
+{
+  "folders": [
+	{
+		"path": "../Glassmorphism002"
+	},
+	{
+		"path": "../Hamburger001"
+	},
+	{
+		"path": "../Color"
+	},
+	{
+		"path": "../GSAP MEss"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "GSAP NATURE SCROLL MAGIC"
+  }
+}
